@@ -1,15 +1,21 @@
+# About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Minhhoang-wed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Minhhoang-wed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Minhhoang-wed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a **Back-End Developer** with a strong passion for building reliable, scalable, and secure server-side applications. Currently a **3rd-year IT student at FPT University**, I am focusing on mastering **Java Spring Boot**, RESTful API development, database design, authentication, and system architecture.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Minhhoang-wed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy turning business requirements into clean backend logic, designing efficient database schemas, and building APIs that are easy to maintain and integrate with Front-End applications. My goal is to continuously improve my skills in backend engineering, system design, performance optimization, and contribute to real-world software projects that create practical value.
 
----
-[![](https://komarev.com/ghpvc/?username=Minhhoang-wed&icon=0&color=0)](https://visitcount.itsvg.in)
+## Contact & Connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to reach out to connect, collaborate on Back-End or Full-Stack projects, or discuss software engineering topics!
+
+* **Email:** [lehoang48692005@gmail.com](mailto:lehoang48692005@gmail.com)
+* **LinkedIn:** [Updating soon...]
+* **Fun fact:** When I'm not debugging APIs or fixing database errors, I'm probably exploring better ways to make my code cleaner and more scalable.
+
+## Tech Stack
+
+* **Back-End:** Java, Spring Boot, Spring Security, RESTful API, JWT
+* **Database:** PostgreSQL, Supabase, SQL Server, JPA/Hibernate
+* **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman, Maven
+* **Basic Front-End:** HTML5, CSS3, JavaScript, React
+* **Others:** API Design, Authentication & Authorization, Database Schema Design, Layered Architecture
